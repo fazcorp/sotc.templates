@@ -10,7 +10,4 @@ f2u templates for sotc.
 there's no need to download anything, clicking on the respective files will open a tab where you are able to copy and paste.
 these are added to periodically, keep checking for more!
 
-![spiffsleepy](https://github.com/fazcorp/sotc.templates/assets/119465467/ff5895cb-5d54-46ae-80ee-2e1ebef505c9)
-<br>*©️ vixiestixie*
-
-
+![image](https://github.com/fazcorp/sotc.templates/assets/119465467/ca6e266b-c977-444a-92cb-5f44cc7de18e)
