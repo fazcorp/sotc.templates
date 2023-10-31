@@ -5,6 +5,7 @@ f2u templates for sotc.
 - keep the credit even if you heavily edit the template.
 - you may take inspiration from these templates, i don't mind, but do not pass it off as your own entire idea.
 - requests? questions? confused? other fun stuff? contact me @cornflowers. !
+- (important notes: i will not make requests to fit your own character, and any requests i take will be posted here to be used by others as well.)
 
 
 there's no need to download anything, clicking on the respective files will open a tab where you are able to copy and paste.
