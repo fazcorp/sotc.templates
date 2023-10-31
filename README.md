@@ -12,5 +12,5 @@ there's no need to download anything, clicking on the respective files will open
 these are added to periodically, keep checking for more!
 
 <p align="center">
-  <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/72177087_fboOCiRlp8bQjA8.png" width="350" title="art by my friend vixie!">
+![art by my friend vixie!](https://github.com/fazcorp/sotc.templates/assets/119465467/3fe91e90-9ba4-4b26-b68a-d2f71d0f0850)
 </p>
