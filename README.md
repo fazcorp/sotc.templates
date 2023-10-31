@@ -10,3 +10,7 @@ f2u templates for sotc.
 **in order to access files:** navigate upwards to the button labelled "main". clicking on it takes you into the branch viewer, where you can select what format you are looking for. 
 there's no need to download anything, clicking on the respective files will open a tab where you are able to copy and paste.
 these are added to periodically, keep checking for more!
+
+<p align="center">
+  <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/72177087_fboOCiRlp8bQjA8.png" width="350" title="art by my friend vixie!">
+</p>
