@@ -5,6 +5,7 @@ f2u templates for sotc.
 - keep the credit even if you heavily edit the template.
 - you may take inspiration from these templates, i don't mind, but do not pass it off as your own entire idea.
 - please be aware *not all of my formatting is F2U.* if it isn't in here, it is not f2u!!!!!
+- please **do not frankenstein (mix or merge) my formats** with others', unless you have *explicit permission* to do so (or it is your own)!! even if it's a small snippet of both, i do not want people to go uncredited for their creations.
 - requests? questions? confused? other fun stuff? contact me @cornflowers. !
 
 # other notes.
@@ -13,6 +14,10 @@ f2u templates for sotc.
 - requests i take will be posted here, meaning they will be f2u for everybody including you!!
 - i can't take requests for specific characters; that's a seperate thing that i'm going to end up offering seperately
 - requests probably won't be done immediately or even soon after requests, i tend to wait for motivation or periods of time i have nothing to do LOL
+
+#guide
+- **[E]** - replace these *along with the brackets* with an emoji of your choice!
+- - **[NUMBER]X DIVIDERS** - a lot of users use emoji dividers, this tells you how many are "supposed" to be used (as in: the format was created with that many)
 
 
 there's no need to download anything, clicking on the respective files will open a tab where you are able to copy and paste.
