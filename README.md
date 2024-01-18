@@ -1,7 +1,7 @@
 # sotc.templates
 f2u templates for sotc.
 
-- please credit when using, i don't care where the credits are, you're free to move it around *as long as it is noticeable*. **I HAVE A ZERO-TOLERANCE POLICY ABOUT THIS. I HAVE HAD MY CREDITS REMOVED REPEATEDLY AND I AM NOT OKAY WITH THIS. action *can* and *will* be taken if you remove my credits on *any of my formats*. if this persists i will forbid *anyone* from using my formatting.**
+- please credit when using, i don't care where the credits are, you're free to move it around *as long as it is noticeable*. **I HAVE A ZERO-TOLERANCE POLICY ABOUT THIS. I HAVE HAD MY CREDITS REMOVED REPEATEDLY AND I AM NOT OKAY WITH THIS. action *can* and *will* be taken if you remove my credits on *any of my formats*. if this persists i will forbid *anyone* from using my formatting.** i understand forgetfulness and this is only in the case of repeated events.
 - keep the credit even if you heavily edit the template. (for a correction on this, this only applies if it is still recognizable as the original formatting, if it's something entirely different visual wise i do not mind)
 - you may take inspiration from these templates, i don't mind, but do not pass it off as your own entire idea. *please ask before doing this, alongside asking before taking snippets of my formatting.*
 - please be aware *not all of my formatting is F2U.* if it isn't in here, it is not f2u!!!!!
