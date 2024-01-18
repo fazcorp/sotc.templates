@@ -1,7 +1,7 @@
 # sotc.templates
 f2u templates for sotc.
 
-- please credit when using, i don't care where the credits are, you're free to move it around.
+- please credit when using, i don't care where the credits are, you're free to move it around. **I HAVE A ZERO-TOLERANCE POLICY ABOUT THIS. I HAVE HAD MY CREDITS REMOVED REPEATEDLY AND I AM NOT OKAY WITH THIS. action *can* and *will* be taken if you remove my credits on *any of my formats*.**
 - keep the credit even if you heavily edit the template. (for a correction on this, this only applies if it is still recognizable as the original formatting, if it's something entirely different visual wise i do not mind)
 - you may take inspiration from these templates, i don't mind, but do not pass it off as your own entire idea.
 - please be aware *not all of my formatting is F2U.* if it isn't in here, it is not f2u!!!!!
@@ -16,9 +16,9 @@ f2u templates for sotc.
 - i can't take requests for specific characters; that's a seperate thing that i'm going to end up offering seperately
 - requests probably won't be done immediately or even soon after requests, i tend to wait for motivation or periods of time i have nothing to do LOL
 
-#guide
+# guide
 - **[E]** - replace these *along with the brackets* with an emoji of your choice!
-- - **[NUMBER]X DIVIDERS** - a lot of users use emoji dividers, this tells you how many are "supposed" to be used (as in: the format was created with that many)
+- **[NUMBER] DIVIDERS** - a lot of users use emoji dividers, this tells you how many are "supposed" to be used (as in: the format was created with that many)
 
 
 there's no need to download anything, clicking on the respective files will open a tab where you are able to copy and paste.
