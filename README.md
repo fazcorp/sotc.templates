@@ -12,7 +12,7 @@ f2u templates for sotc.
 - requests? questions? confused? other fun stuff? contact me @cornflowers. !
 
 # other notes.
-- requests are currently open, you can ping/dm me accordingly or fill out [this form]()
+- requests are currently open, you can ping/dm me accordingly or fill out [this form]() (once i am approved! ping me in character-building if you have requests! i dont bite!)
 - all my formats are non-nitro inclusive, though i can't promise they'll look the way they are intended to.
 - requests i take will be posted here, meaning they will be f2u for everybody including you!!
 - i can't take requests for specific characters; that's a seperate thing that i'm going to end up offering seperately
